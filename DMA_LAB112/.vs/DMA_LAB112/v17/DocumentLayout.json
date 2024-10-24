@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Code\\C#\\DMA_LAB112\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\data\\employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:data\\employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\repositories\\photoemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:repositories\\photoemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\models\\photoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:models\\photoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|d:\\documents\\code\\c#\\dma_lab112\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9934AE7C-7FF0-4316-8326-B30F7916ACC8}|DMA_LAB112.csproj|solutionrelative:data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:10:06.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T11:08:55.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:07:31.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:54:04.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:48:12.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeManagementContext.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Data\\EmployeeManagementContext.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeManagementContext.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Data\\EmployeeManagementContext.cs",
+              "RelativeToolTip": "Data\\EmployeeManagementContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:51:29.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Data\\Repository.cs",
+              "RelativeToolTip": "Data\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:04:53.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhotoEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Repositories\\PhotoEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PhotoEmployeeRepository.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Repositories\\PhotoEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\PhotoEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:07:20.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhotoEmployee.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Models\\PhotoEmployee.cs",
+              "RelativeDocumentMoniker": "Models\\PhotoEmployee.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Models\\PhotoEmployee.cs",
+              "RelativeToolTip": "Models\\PhotoEmployee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:49:00.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:06:54.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository.cs",
+              "ToolTip": "D:\\Documents\\Code\\C#\\DMA_LAB112\\Data\\IRepository.cs",
+              "RelativeToolTip": "Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:02:57.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
