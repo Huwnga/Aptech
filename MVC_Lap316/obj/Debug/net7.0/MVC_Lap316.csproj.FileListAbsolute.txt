@@ -1,0 +1,8 @@
+D:\Documents\Code\C#\MVC_Lap316\obj\Debug\net7.0\MVC_Lap316.csproj.AssemblyReference.cache
+D:\Documents\Code\C#\MVC_Lap316\obj\Debug\net7.0\MVC_Lap316.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Code\C#\MVC_Lap316\obj\Debug\net7.0\MVC_Lap316.AssemblyInfoInputs.cache
+D:\Documents\Code\C#\MVC_Lap316\obj\Debug\net7.0\MVC_Lap316.AssemblyInfo.cs
+D:\Documents\Code\C#\MVC_Lap316\obj\Debug\net7.0\MVC_Lap316.csproj.CoreCompileInputs.cache
+D:\Documents\Code\C#\MVC_Lap316\obj\Debug\net7.0\MVC_Lap316.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Code\C#\MVC_Lap316\obj\Debug\net7.0\MVC_Lap316.RazorAssemblyInfo.cache
+D:\Documents\Code\C#\MVC_Lap316\obj\Debug\net7.0\MVC_Lap316.RazorAssemblyInfo.cs
