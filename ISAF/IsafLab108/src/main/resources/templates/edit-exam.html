@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Exam</title>
+</head>
+<body>
+<h1>Edit Exam</h1>
+<form th:action="@{/exams/{id}/edit(id=${exam.id})}" th:object="${exam}" method="post">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" th:value="${exam.name}" /><br/>
+
+    <label for="duration">Duration:</label>
+    <input type="number" id="duration" name="duration" th:value="${exam.duration}" /><br/>
+
+    <label for="description">Description:</label>
+    <textarea id="description" name="description" th:text="${exam.description}"></textarea><br/>
+
+    <button type="submit">Save</button>
+</form>
+</body>
+</html>

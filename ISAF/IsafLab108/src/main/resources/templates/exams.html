@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All Exams</title>
+</head>
+<body>
+<h1>List All Exams</h1>
+<a href="/">Back home</a>
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Duration</th>
+        <th>Created At</th>
+        <th>Updated At</th>
+        <th>Edit</th>
+    </tr>
+    <tr th:each="exam : ${exams}">
+        <td th:text="${exam.id}"></td>
+        <td th:text="${exam.name}"></td>
+        <td th:text="${exam.duration}"></td>
+        <td th:text="${#dates.format(exam.createdAt, 'dd-MM-yyyy HH:mm:ss')}"></td>
+        <td th:text="${#dates.format(exam.updatedAt, 'dd-MM-yyyy HH:mm:ss')}"></td>
+        <td><a th:href="@{/exams/{id}/edit(id=${exam.id})}">Edit</a></td>
+    </tr>
+</table>
+</body>
+</html>
